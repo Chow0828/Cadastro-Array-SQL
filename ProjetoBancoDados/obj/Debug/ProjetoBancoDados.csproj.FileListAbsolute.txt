@@ -1,0 +1,41 @@
+C:\Users\Aluno\Downloads\ProjetoBancoDados\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe.config
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\bin\Debug\Cadastros.mdf
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\bin\Debug\Cadastros_log.ldf
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe.config
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.pdb
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmPrincipal.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmUsuario.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.Properties.Resources.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.GenerateResource.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.exe
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.pdb
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe.config
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.exe
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.pdb
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\Cadastros.mdf
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\Cadastros_log.ldf
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.pdb
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmPrincipal.resources
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmUsuario.resources
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.Properties.Resources.resources
+C:\Users\Aluno\Downloads\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.GenerateResource.Cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\Cadastros.mdf
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\Cadastros_log.ldf
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe.config
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.exe
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\bin\Debug\ProjetoBancoDados.pdb
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmPrincipal.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmUsuario.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.Properties.Resources.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.GenerateResource.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.exe
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.pdb
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.csproj.AssemblyReference.cache
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmCliente.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmFornecedor.resources
+C:\Users\Andrey Moura\OneDrive - Etec Centro Paula Souza\TRABALHOS\DS\CadastroSQL\CadastroSQL\ProjetoBancoDados\obj\Debug\ProjetoBancoDados.frmProduto.resources
